@@ -1,8 +1,8 @@
 import cv2
 import pandas as pd
 
-img_path = r'C:\Users\91939\Downloads\slashmark_intern\Task-1_color detection project\pic2 (1).jpg'
-csv_path = r'C:\Users\91939\Downloads\slashmark_intern\Task-1_color detection project\colors.csv'
+img_path = r'pic2 (1).jpg'
+csv_path = r'colors.csv'
 
 #  Read the CSV file
 index = ['color', 'color_name', 'hex', 'R', 'G', 'B']
